@@ -10,7 +10,7 @@ Author: YuntianJinShi
 作者：云天尽时
 
 解压缩后把res_mods文件夹覆盖到以下路径
-你的战舰世界安装目录/World of Warships/bin/[数字最大的那个文件夹]/res_mods/
+你的战舰世界安装目录/Korabli/bin/[数字最大的那个文件夹]/res_mods/
 
 不要把主题包压缩包的“res_mods”套在游戏目录的“res_mods”里面
 
